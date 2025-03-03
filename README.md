@@ -3,11 +3,11 @@
 
 - 🌱 I’m currently learning **Spigot Plugin API, Discord Bot Development**
 
-- 👨‍💻 All of my projects are available at [github.com/LuuBaro](https://github.com/LuuBaro)
+- 👨‍💻 All of my projects are available at [github.com/HMinh04](https://github.com/LuuBaro)
 
 - 💬 Ask me about **Java**
 
-- 📫 How to reach me **luubaoa6@gmail.com (1-2 days to respond)**
+- 📫 How to reach me **xekohminh1602@gmail.com (1-2 days to respond)**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
